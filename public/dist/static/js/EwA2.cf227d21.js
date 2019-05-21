@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["EwA2"],{EwA2:function(n,e,t){"use strict";t.r(e);var s=t("KHd+"),i=Object(s.a)({},function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"download-index-page"},[this._v("\n    软件下载页面\n")])},[],!1,null,null,null);i.options.__file="Index.vue";e.default=i.exports}}]);
